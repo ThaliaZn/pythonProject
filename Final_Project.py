@@ -41,6 +41,6 @@ plt.show()
 
 PercentageOfSalesPerStore.plot(kind='bar')
 plt.title('Most Popular Item Sales Percentage By Store')
-plt.xlabel('Store Number')
+plt.xlabel('Store Name')
 plt.ylabel('Percentage Based on Total Sales')
 plt.show()
